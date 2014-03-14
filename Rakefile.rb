@@ -25,7 +25,7 @@ task :deploy_qa do
   puts "done!"
 end
 
-task :deploy_qa do
+task :deploy_prod do
   puts "Deploying to Production environment..."
   puts "done!"
 end
