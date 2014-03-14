@@ -19,3 +19,13 @@ task :package do
   puts "packaging..."
   puts "done!"
 end
+
+task :deploy_qa do
+  puts "Deploying to QA environment..."
+  puts "done!"
+end
+
+task :deploy_qa do
+  puts "Deploying to Production environment..."
+  puts "done!"
+end
